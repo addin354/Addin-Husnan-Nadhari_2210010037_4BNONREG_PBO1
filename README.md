@@ -4,7 +4,7 @@ Proyek ini adalah contoh sederhana aplikasi pengelola data Ustad menggunakan Jav
 
 ## Deskripsi
 
-Aplikasi ini menerima input berupa nama, asal, Id Santri dan Tahun Lulus, dan memberikan output berupa menu untuk menambah data santri dan menampilkan data santri.
+Aplikasi ini menerima input berupa nama, Id Santri, asal dan Tahun Lulus, dan memberikan output berupa menu untuk menambah data santri dan menampilkan data santri.
 
 Aplikasi ini mengimplementasikan beberapa konsep penting dalam pemrograman berorientasi objek (OOP) seperti Class, Object, Atribut, Method Constructor, Method Mutator, Method Accessor, Encapsulation, Inheritance, Overriding, Seleksi, Perulangan, IO Sederhana, Array, dan Error Handling.
 
