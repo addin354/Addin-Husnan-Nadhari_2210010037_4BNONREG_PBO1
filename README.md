@@ -117,7 +117,7 @@ public class Santri extends Ustad {
 10. **Seleksi** adalah statement kontrol yang digunakan untuk membuat keputusan berdasarkan kondisi. Pada kode ini, digunakan seleksi `if else` dalam method `main` di kelas `Main`.
 
 ```bash
-if (pilihanpengguna == 1) {
+if (pilihanpengguna) {
     ...
 } else if (pilihanpengguna == 2) {
     ...
